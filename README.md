@@ -1,13 +1,6 @@
 # Reddit Login Page Clone
 Clone funcional em react da pagina de login do reddit feita utilizando Components, States e useEffect.
 
-# Tecnologias:
-- CSS
-- JavaScript
-- HTML
-- Vite
-- React
-
 # Funcionalidades
 - Formulário de login com campos para e-mail e senha
 - Validação básica de formulário
