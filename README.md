@@ -13,9 +13,9 @@ Clone funcional em react da pagina de login do reddit feita utilizando Component
 - Validação básica de formulário
 
 # Original:
-![reddit](https://github.com/Khezac/Reddit-Login-Page-Clone/assets/152409554/45d0e4c0-931e-4d25-ac1f-b1ae46c41452)
-
+![Screenshot_4](https://github.com/Khezac/Reddit-Login-Page-Clone/assets/152409554/6dcd85a5-ca4a-4f4d-a894-f493855f1f15)
 
 # Clone:
-![image](https://github.com/Khezac/Reddit-Login-Page-Clone/assets/152409554/f88ca217-062f-4664-93a2-1143c0265614)
+![image](https://github.com/Khezac/Reddit-Login-Page-Clone/assets/152409554/86238d63-ad5b-4114-aab4-2ae3087292e5)
+
 
