@@ -73,6 +73,7 @@ form{
 
 .submitButton:disabled {
     background-color: #24282A;
+    cursor: auto;
 }
 
 .error {

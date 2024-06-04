@@ -52,6 +52,7 @@ function LoginForms() {
         setError(true);
       }
     }
+
   },[checaLogin, confirmaEmail, confirmaSenha]);
 
   return (
