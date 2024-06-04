@@ -1,0 +1,17 @@
+.logo{
+    width: 9rem;
+    height: 4rem;
+    object-fit: contain;
+}
+
+.container{
+    display: flex;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 98.3%;
+    height: 4rem;
+    padding-left: 2rem;
+    background-color: #0E1113;
+    border-bottom: 0.5px solid  #27292B;
+}

@@ -1,5 +1,5 @@
-import LoginForms from "../forms/LoginForms";
-import styles from "./Login.module.css"
+import LoginForms from "../../forms/LoginForms/index";
+import styles from "./style.module.css"
 
 function Login() {
   return (
