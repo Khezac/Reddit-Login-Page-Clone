@@ -1,6 +1,5 @@
 import styles from "./style.module.css";
 import { useEffect, useState } from "react";
-import Smartphone from "../../../assets/phone-outlined.png";
 import Google from "../../../assets/google-original.svg"
 import Apple from "../../../assets/apple-original.svg"
 
@@ -71,10 +70,6 @@ function LoginForms() {
             </a>
             .
           </p>
-          <button className={styles.otherPlatformButton}>
-          <img className={styles.otherPlatformIcon} src={Smartphone} />
-          Continuar com número de telefone
-          </button>
 
           <button className={styles.otherPlatformButton}>
           <img className={styles.otherPlatformIcon} src={Google} />
